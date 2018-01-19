@@ -3,4 +3,3 @@ New Space invader with collisions and sounds. Sound is off centered but still wo
 URL link = https://drakealexander.github.io/spaceinvader2/
 g
 g
-g
